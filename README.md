@@ -1,4 +1,8 @@
-# ML2024
+# Machine Learning Study in 2024
+
+<p align="center">
+   <img src="./ML2024_logo.png" width=40%>
+</p>
 
 ## Weekly Presentation
 
