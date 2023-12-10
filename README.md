@@ -1,4 +1,4 @@
-# Machine Learning Study in 2024
+<h1 style="text-align:center">Machine Learning Study in 2024</h1>
 
 <p align="center">
    <img src="./ML2024_logo.png" width=40%>
